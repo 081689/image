@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:5
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="skd://9eLTKkrMhK+XcPq6in/x+g==",KEYFORMAT="com.apple.streamingkeydelivery",KEYFORMATVERSIONS="1"
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="skd://9eLTKkrMhK+XcPq6in/x+g==",KEYFORMAT="com.apple.streamingkeydelivery",KEYFORMATVERSIONS="1"
-#EXT-X-PROGRAM-DATE-TIME:2023-10-26T03:45:20.805544Z
-http://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0107/HLS/V0107-avc1_2000000=14-mp4a_64000_eng=1.m3u8
